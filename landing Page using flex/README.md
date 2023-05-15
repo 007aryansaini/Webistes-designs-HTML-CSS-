@@ -4,4 +4,4 @@ This is a landing page.
 
 ## Demo
 
-https://fastidious-basbousa-81cd88.netlify.app/
+https://rococo-kitsune-229499.netlify.app/
